@@ -13,6 +13,14 @@
 - Arduino e Internet das Coisas  
 - Git e GitHub  
 
+🌐 Idiomas
+
+- Português: Nativo
+
+- Inglês: Intermediário (aulas particulares em andamento)
+
+- Espanhol: Avançado (formado pelo CEL - Centro de Estudos de Línguas)
+  
 ---
 
 ### 🌍 Onde me encontrar
