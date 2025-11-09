@@ -13,11 +13,6 @@
 - Arduino e Internet das Coisas  
 - Git e GitHub  
 
-
-### 💼 Projetos em Destaque
-🔹 [Repositório ABAP](#) — códigos e estudos em ABAP  
-🔹 [Projetos Web](#) — sites e aplicações desenvolvidos em PHP e Bootstrap  
-
 ---
 
 ### 🌍 Onde me encontrar
